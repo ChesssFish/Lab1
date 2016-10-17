@@ -1,6 +1,7 @@
 package calculator;
 import java.util.*;
 /*ÐÞ¸Ä*/
+aaa;
 public class Calc {
 	ArrayList<Item> item;
 	Scanner is;

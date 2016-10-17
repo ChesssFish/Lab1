@@ -5,7 +5,7 @@ public class Item {
 	ArrayList<String> variables;
 	HashMap<String, Integer> powers;
 	int coe;
-	
+	aaa;
 	//计算系数等
 	public Item(String str)
 	{
