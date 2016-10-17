@@ -1,7 +1,11 @@
 package calculator;
 import java.util.*;
 /*ÐÞ¸Ä*/
+<<<<<<< HEAD
 /*aaa*/
+=======
+aaa;
+>>>>>>> C4
 public class Calc {
 	ArrayList<Item> item;
 	Scanner is;
