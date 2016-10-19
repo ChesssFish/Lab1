@@ -43,7 +43,7 @@ public class Item {
 			powers.put(var, 1);
 		}
 		else if(powers.containsKey(var))
-		{
+		{ 
 			int x = powers.get(var);
 			powers.remove(var);
 			powers.put(var, x + 1);
